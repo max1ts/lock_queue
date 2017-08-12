@@ -1,0 +1,3 @@
+*.suo
+/LockQueue/bin/Debug
+/LockQueue/obj/Debug
